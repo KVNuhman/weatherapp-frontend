@@ -157,17 +157,16 @@ body {
 
 @media (max-width: 767px) {
   body {
-    font-size: 14px; /* Adjust the font size for smaller screens */
+    font-size: 14px; 
   }
 
   .container {
-    width: 100%; /* Make the container full width on mobile screens */
-    height: 90vh; /* Allow the height to adjust based on the content */
-    border-radius: 10px; /* Reduce border radius for mobile screens */
-    box-shadow: none; /* Remove box shadow on mobile screens */
+    width: 100%; 
+    height: 90vh; 
+    border-radius: 10px; 
+    box-shadow: none; 
   }
 
-  /* Adjust other styles as needed for a better mobile experience */
   .upper-data{
     height: 50%;
   }
@@ -179,8 +178,6 @@ body {
   .weather-data {
     padding: 1em;
   }
-
-  /* Add any other mobile-specific styles as needed */
 }
 
 
